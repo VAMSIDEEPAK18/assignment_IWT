@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding:0px;
+   
+    color:burlywood
+}
+
+.in{
+    margin:20px;
+    
+    padding:5px;
+    width:400px;
+    
+    
+}
+.login{
+    padding:20px;
+   background-color: antiquewhite;
+    padding-bottom: 30px;
+}
+
+.cn{
+    padding:10px;
+    margin: 20px;
+
+}
+
+.bor{
+    background-color: antiquewhite;
+    margin: 100px;
+    padding: 10px;
+    
+}
+body{
+    background-color:whitesmoke;
+}
+.fg{
+    position :absolute;
+    margin-left: 500px;
+    margin-top: 5px;
+}
